@@ -1,4 +1,4 @@
-const owlstronaut = {
+const dgilo = {
   name: "KENT DARYL GILO",
   employer: "BPI",
   previousWork: ["Freelance at Fivvr and Upwork"],
